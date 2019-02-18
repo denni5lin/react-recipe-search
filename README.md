@@ -1,6 +1,13 @@
-BPJ
+# Recipe Search
+
+Initial design and idea for project BPJ. Since we don't have any local data saved, we are currently using API from [Food2Fork](https://www.food2fork.com/about/api) to get recommended recipes. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Additioal Dependencies 
+
+* Bootstrap 4
+* React Router 
 
 ## Available Scripts
 
